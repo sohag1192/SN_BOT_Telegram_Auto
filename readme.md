@@ -90,5 +90,5 @@ SN_BOT_Telegram_Auto/
 
 ## 📜 License
 MIT License – free to use, modify, and distribute.
-```
+
 
