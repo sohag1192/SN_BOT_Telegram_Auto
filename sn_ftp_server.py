@@ -8,8 +8,9 @@ import logging
 # Set up professional console logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-BOT_TOKEN = '842571100356:AAHex14zhojqhuTs1rYx-coT8YiXPfHOYSSqk'
-ADMIN_GROUP_ID = -5261477140_best 
+BOT_TOKEN = 'YOUR_BOT_TOKEN_FROM_BOTFATHER'
+ADMIN_GROUP_ID = YOUR_ADMIN_CHAT_ID  
+
 SERVER_LINK = 'http://100.100.100.6/'
 TV_SERVER_LINK = 'http://100.100.100.2'
 ICC_FTP_LINK = 'http://10.16.100.244/'
