@@ -1,5 +1,4 @@
 
-```markdown
 # SN_BOT-Telegram-Services
 
 A lightweight automation project that deploys two Python-based services:
